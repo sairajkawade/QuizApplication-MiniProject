@@ -1,0 +1,375 @@
+
+++++++++++++ Output of the Program ++++++++++++
+
+<<<<<<<<<< Quiz Application >>>>>>>>>>
+
+Welcome to Quiz based application
+
+	 User Operation 
+
+1. Student Registration
+2. Student Login
+3. Display the list of questions
+4. Store Quiz result into database
+5. Display Quiz result 
+
+	 Admin Operation 
+
+6. Display all students score as per ascending order
+7. Fetch student score by using id
+8. Add question with 4 options into database
+
+9. Exit
+----------------------------------------------
+Enter your choice >> 1
+Enter the first name : Prakash
+Enter the last name : Deshmukh
+Enter the username : pk
+Enter the password : 112233
+Enter the city : Mumbai
+Enter the mail id : pk@gmail.com
+Enter the mobile number : 4455667788
+
+Profile Created Successfully...
+
+******************************************
+
+<<<<<<<<<< Quiz Application >>>>>>>>>>
+
+Welcome to Quiz based application
+
+	 User Operation 
+
+1. Student Registration
+2. Student Login
+3. Display the list of questions
+4. Store Quiz result into database
+5. Display Quiz result 
+
+	 Admin Operation 
+
+6. Display all students score as per ascending order
+7. Fetch student score by using id
+8. Add question with 4 options into database
+
+9. Exit
+----------------------------------------------
+Enter your choice >> 2
+Enter the username : pk
+Enter the password : 112233
+
+Login Successfully...
+
+******************************************
+
+<<<<<<<<<< Quiz Application >>>>>>>>>>
+
+Welcome to Quiz based application
+
+	 User Operation 
+
+1. Student Registration
+2. Student Login
+3. Display the list of questions
+4. Store Quiz result into database
+5. Display Quiz result 
+
+	 Admin Operation 
+
+6. Display all students score as per ascending order
+7. Fetch student score by using id
+8. Add question with 4 options into database
+
+9. Exit
+----------------------------------------------
+Enter your choice >> 3
+Enter the username : pk
+Enter the password : 112233
+
+Login Successfully...
+Student Id >> 9
+
+que. 1 Which of the following is a superclass of every class in Java?
+a) ArrayList
+b) Abstract class
+c) Object class
+d) String
+
+Enter the answer : c
+
+que. 2 What is the return type of the hashCode() method in the Object class?
+a) Object
+b) int
+c) long
+d) void
+
+Enter the answer : b
+
+que. 3 In java, jar stands for_____
+a) Java Archive Runner
+b) Java Application Resource
+c) Java Application Runner
+d) None of the above
+
+Enter the answer : b
+
+que. 4 Which package contains the Random class?
+a) java.util package
+b) java.lang package
+c) java.awt package
+d) java.io package
+
+Enter the answer : a
+
+que. 5 In which memory a String is stored, when we create a string using new operator?
+a) Stack
+b) String memory
+c) Heap memory
+d) Random storage space
+
+Enter the answer : c
+
+que. 6 Which of the given methods are of Object class?
+a) notifyAll()
+b) interrupt()
+c) synchronized()
+d) sleep(long msecs)
+
+Enter the answer : d
+
+que. 7 Which of the following is a mutable class in java?
+a) java.lang.String
+b) java.lang.Byte
+c) java.lang.Short
+d) java.lang.StringBuilder
+
+Enter the answer : a
+
+que. 8 Which of the following is not an OOPS concept in Java?
+a) Polymorphism
+b) Inheritance
+c) Compilation
+d) Encapsulation
+
+Enter the answer : d
+
+que. 9 Which exception is thrown when java is out of memory?
+a) MemoryError
+b) OutOfMemoryError
+c) MemoryOutOfBoundsException
+d) MemoryFullException
+
+Enter the answer : c
+
+que. 10 Which of these is not a feature of Java?
+a) Object-oriented
+b) Platform-independent
+c) Compiled
+d) Interpreted language
+
+Enter the answer : c
+
+que. 11 What is the pillars of oops?
+a) String
+b) JDBC
+c) Polymorphism
+d) JSP
+
+Enter the answer : d
+
+Result stored Successfully...
+
+Thank you...
+
+******************************************
+
+<<<<<<<<<< Quiz Application >>>>>>>>>>
+
+Welcome to Quiz based application
+
+	 User Operation 
+
+1. Student Registration
+2. Student Login
+3. Display the list of questions
+4. Store Quiz result into database
+5. Display Quiz result 
+
+	 Admin Operation 
+
+6. Display all students score as per ascending order
+7. Fetch student score by using id
+8. Add question with 4 options into database
+
+9. Exit
+----------------------------------------------
+Enter your choice >> 4
+
+ !!!! Your Quiz result with grade stored Successfully.... !!!!
+
+******************************************
+
+<<<<<<<<<< Quiz Application >>>>>>>>>>
+
+Welcome to Quiz based application
+
+	 User Operation 
+
+1. Student Registration
+2. Student Login
+3. Display the list of questions
+4. Store Quiz result into database
+5. Display Quiz result 
+
+	 Admin Operation 
+
+6. Display all students score as per ascending order
+7. Fetch student score by using id
+8. Add question with 4 options into database
+
+9. Exit
+----------------------------------------------
+Enter your choice >> 5
+Enter the username : pk
+Enter the password : 112233
+
+Login Successfully...
+
+Your total score is >> 10 with  Grade : 'B' >> First class
+
+******************************************
+
+<<<<<<<<<< Quiz Application >>>>>>>>>>
+
+Welcome to Quiz based application
+
+	 User Operation 
+
+1. Student Registration
+2. Student Login
+3. Display the list of questions
+4. Store Quiz result into database
+5. Display Quiz result 
+
+	 Admin Operation 
+
+6. Display all students score as per ascending order
+7. Fetch student score by using id
+8. Add question with 4 options into database
+
+9. Exit
+----------------------------------------------
+Enter your choice >> 6
+
+First name >> Prakash
+Last name >> Deshmukh
+Score >> 10
+
+First name >> Vishal
+Last name >> Kashid
+Score >> 14
+
+First name >> Om
+Last name >> Surve
+Score >> 18
+
+First name >> Om
+Last name >> Surve
+Score >> 18
+
+First name >> sairaj
+Last name >> kawade
+Score >> 20
+
+******************************************
+
+<<<<<<<<<< Quiz Application >>>>>>>>>>
+
+Welcome to Quiz based application
+
+	 User Operation 
+
+1. Student Registration
+2. Student Login
+3. Display the list of questions
+4. Store Quiz result into database
+5. Display Quiz result 
+
+	 Admin Operation 
+
+6. Display all students score as per ascending order
+7. Fetch student score by using id
+8. Add question with 4 options into database
+
+9. Exit
+----------------------------------------------
+Enter your choice >> 7
+
+Enter student id : 9
+
+Score is : 10
+
+******************************************
+
+<<<<<<<<<< Quiz Application >>>>>>>>>>
+
+Welcome to Quiz based application
+
+	 User Operation 
+
+1. Student Registration
+2. Student Login
+3. Display the list of questions
+4. Store Quiz result into database
+5. Display Quiz result 
+
+	 Admin Operation 
+
+6. Display all students score as per ascending order
+7. Fetch student score by using id
+8. Add question with 4 options into database
+
+9. Exit
+----------------------------------------------
+Enter your choice >> 8
+Enter the question : 
+Which is non-primitive data type?
+
+ Please enter option with prefix 
+
+ like a) option1, b) option2, c) option3, d) option4 
+
+Enter Option 1. : a) long
+Enter Option 2. : b) char
+Enter Option 3. : c) String
+Enter Option 4. : d) byte
+Enter the correct answer : c) String
+
+Question is added Successfully...
+
+******************************************
+
+<<<<<<<<<< Quiz Application >>>>>>>>>>
+
+Welcome to Quiz based application
+
+	 User Operation 
+
+1. Student Registration
+2. Student Login
+3. Display the list of questions
+4. Store Quiz result into database
+5. Display Quiz result 
+
+	 Admin Operation 
+
+6. Display all students score as per ascending order
+7. Fetch student score by using id
+8. Add question with 4 options into database
+
+9. Exit
+----------------------------------------------
+Enter your choice >> 9
+
+Now Quiz Application is Turn off...
+<<< Thank you!!!! >>>
