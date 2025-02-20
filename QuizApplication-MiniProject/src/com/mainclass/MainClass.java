@@ -20,6 +20,9 @@ public class MainClass {
 		// while() loop - if user want executing any option again & again.
 		while(no == 0) {
 			// printing the below Console Functionalities
+			
+			System.out.print("Hello this is Quize Application \n");
+			
 			System.out.println("\n<<<<<<<<<< Quiz Application >>>>>>>>>>\n");
 			System.out.println("\nWelcome to Quiz based application");
 			System.out.println("\n\t User Operation \n");
